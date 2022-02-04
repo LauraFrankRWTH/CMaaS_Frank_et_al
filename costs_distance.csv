@@ -1,0 +1,26 @@
+mobility service;vehicle class;price tariff;costs_distance;costs_distance_EVprice
+bikeShare;normalBEV;1;0;0
+bikeShare;normalBEV;2;0;0
+bikeExclOwn;normalBEV;1;0.000743;0.000407
+bikeExclLease;normalBEV;1;0.000743;0.000407
+carShare;small;1;0.23;0.23
+carShare;small;2;0.25;0.25
+carShare;medium;1;0.24;0.24
+carShare;medium;2;0.25;0.25
+carShare;mediumBEV;1;0.24;0.24
+carShare;mediumBEV;2;0.25;0.25
+carShare;big;1;0.26;0.26
+carShare;big;2;0.25;0.25
+carExclOwn;smallBEV;1;0.24;0.18
+carExclOwn;medium;1;0.32;0.36
+carExclOwn;mediumBEV;1;0.28;0.21
+carExclOwn;bigBEV;1;0.36;0.27
+carExclLease;smallBEV;1;0.0299;0.0164
+carExclLease;medium;1;0.0821;0.0972
+carExclLease;mediumBEV;1;0.0334;0.0183
+carExclLease;bigBEV;1;0.0355;0.0194
+scooterShare;normalBEV;1;0;0
+scooterShare;normalBEV;2;0;0
+scooterExclOwn;normalBEV;1;0.001962;0.001073
+scooterExclLease;normalBEV;1;0.001962;0.001073
+taxi;small;1;2;2

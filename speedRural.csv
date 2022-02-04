@@ -1,0 +1,26 @@
+mobility service;vehicle class;intercept;slope
+bikeShare;normalBEV;4;3.3
+bikeExclOwn;normalBEV;4;3.3
+bikeExclLease;normalBEV;4;3.3
+carShare;small;11;1.39
+carShare;medium;11;1.39
+carShare;mediumBEV;11;1.39
+carShare;big;11;1.39
+carRent;small;11;1.39
+carRent;smallBEV;11;1.39
+carRent;medium;11;1.39
+carRent;mediumBEV;11;1.39
+carRent;big;11;1.39
+carRent;bigBEV;11;1.39
+carExclOwn;smallBEV;11;1.39
+carExclOwn;medium;11;1.39
+carExclOwn;mediumBEV;11;1.39
+carExclOwn;bigBEV;11;1.39
+carExclLease;smallBEV;11;1.39
+carExclLease;medium;11;1.39
+carExclLease;mediumBEV;11;1.39
+carExclLease;bigBEV;11;1.39
+scooterShare;normalBEV;4;3.3
+scooterExclOwn;normalBEV;4;3.3
+scooterExclLease;normalBEV;4;3.3
+taxi;small;11;1.39

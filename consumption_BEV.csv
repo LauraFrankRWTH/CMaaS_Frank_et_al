@@ -1,0 +1,14 @@
+mobility service;vehicle class;consumption_kWh/100km;max_charging_capacity_kW;consumption_kWh/100km_EVTech;max_charging_capacity_kW_EVTech
+bikeShare;normalBEV;0.3476;0.112;0;0.112
+bikeExclOwn;normalBEV;0.3476;0.112;0;0.112
+bikeExclLease;normalBEV;0.3476;0.112;0;0.112
+carShare;mediumBEV;15.6;11;0;150
+carExclOwn;smallBEV;14;11;0;150
+carExclOwn;mediumBEV;15.6;11;0;150
+carExclOwn;bigBEV;16.6;11;0;150
+carExclLease;smallBEV;14;11;0;150
+carExclLease;mediumBEV;15.6;11;0;150
+carExclLease;bigBEV;16.6;11;0;150
+scooterShare;normalBEV;0.9175;0.056;0;0.056
+scooterExclOwn;normalBEV;0.9175;0.056;0;0.056
+scooterExclLease;normalBEV;0.9175;0.056;0;0.056

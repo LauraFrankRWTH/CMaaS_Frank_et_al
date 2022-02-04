@@ -1,0 +1,26 @@
+mobility service;vehicle class;price tariff;costs_trip
+bikeShare;normalBEV;1;0
+bikeShare;normalBEV;2;0
+bikeExclOwn;normalBEV;1;0
+bikeExclLease;normalBEV;1;0
+carShare;small;1;0
+carShare;small;2;0
+carShare;medium;1;0
+carShare;medium;2;0
+carShare;mediumBEV;1;0
+carShare;mediumBEV;2;0
+carShare;big;1;0
+carShare;big;2;0
+carExclOwn;smallBEV;1;0
+carExclOwn;medium;1;0
+carExclOwn;mediumBEV;1;0
+carExclOwn;bigBEV;1;0
+carExclLease;smallBEV;1;0
+carExclLease;medium;1;0
+carExclLease;mediumBEV;1;0
+carExclLease;bigBEV;1;0
+scooterShare;normalBEV;1;0
+scooterShare;normalBEV;2;1
+scooterExclOwn;normalBEV;1;0
+scooterExclLease;normalBEV;1;0
+taxi;small;1;3.9

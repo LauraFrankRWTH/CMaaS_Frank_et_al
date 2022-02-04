@@ -1,0 +1,20 @@
+mobility service;vehicle class;seats;max_distance;max_distance_sceanrio_EVTech
+bikeShare;normalBEV;1;12.87;12.87
+bikeExclOwn;normalBEV;1;12.87;12.87
+bikeExclLease;normalBEV;1;12.87;12.87
+carShare;small;4;1000000;1000000
+carShare;medium;5;1000000;1000000
+carShare;mediumBEV;5;359;718
+carShare;big;5;1000000;1000000
+carExclOwn;smallBEV;4;321;642
+carExclOwn;medium;5;1000000;1000000
+carExclOwn;mediumBEV;5;359;718
+carExclOwn;bigBEV;5;394;788
+carExclLease;smallBEV;4;321;642
+carExclLease;medium;5;1000000;1000000
+carExclLease;mediumBEV;5;359;718
+carExclLease;bigBEV;5;394;788
+scooterShare;normalBEV;1;2.2;2.2
+scooterExclOwn;normalBEV;1;2.2;2.2
+scooterExclLease;normalBEV;1;2.2;2.2
+taxi;small;4;1000000;1000000

@@ -1,0 +1,11 @@
+mobility service;accounting_period_minutes
+bikeShare;30
+bikeExclOwn;15
+bikeExclLease;15
+carShare;60
+carExclOwn;15
+carExclLease;15
+scooterShare;1
+scooterExclOwn;15
+scooterExclLease;15
+taxi;30

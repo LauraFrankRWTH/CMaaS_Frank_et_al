@@ -1,0 +1,15 @@
+mobility service;price tariffs
+bikeShare;1
+bikeShare;2
+bikeExclOwn;1
+bikeExclLease;1
+carShare;1
+carShare;2
+carRent;1
+carExclOwn;1
+carExclLease;1
+scooterShare;1
+scooterShare;2
+scooterExclOwn;1
+scooterExclLease;1
+taxi;1

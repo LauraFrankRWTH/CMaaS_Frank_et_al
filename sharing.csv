@@ -1,0 +1,7 @@
+mobility service;vehicle class;share of vehicles at station;max Station capacity Rural;max Station capacity Urban;share of vehicles at station_scenario_sharingAvailability_UB;max Station capacity Rural scenario_sharingAvailability UB;max Station capacity Urban scenario_sharingAvailability UB
+bikeShare;normalBEV;1;12;10;0.2;12;10
+carShare;small;0.3;7;5;0;11;8
+carShare;medium;0.3;7;5;0;11;8
+carShare;mediumBEV;0.2;7;5;1;11;8
+carShare;big;0.2;7;5;0;11;8
+scooterShare;normalBEV;1;0;6;1;0;6

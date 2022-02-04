@@ -1,0 +1,20 @@
+mobility service;vehicle class;c_veh;c_veh_EVprice
+bikeShare;normalBEV;0;0
+bikeExclOwn;normalBEV;42;42
+bikeExclLease;normalBEV;75;75
+carShare;small;0;0
+carShare;medium;0;0
+carShare;mediumBEV;0;0
+carShare;big;0;0
+carExclOwn;smallBEV;160.17;149.74
+carExclOwn;medium;152.42;152.42
+carExclOwn;mediumBEV;161.33;150.91
+carExclOwn;bigBEV;188.42;177.99
+carExclLease;smallBEV;390.21;390.21
+carExclLease;medium;291.45;291.45
+carExclLease;mediumBEV;411.88;411.88
+carExclLease;bigBEV;490.62;490.62
+scooterShare;normalBEV;0;0
+scooterExclOwn;normalBEV;17.01;17.01
+scooterExclLease;normalBEV;39.9;39.9
+taxi;small;0;0
